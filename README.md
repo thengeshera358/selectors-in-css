@@ -1,1 +1,1 @@
-# selectors-in-css
+# csspractice
